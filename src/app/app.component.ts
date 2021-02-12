@@ -3,8 +3,9 @@ import { Component } from '@angular/core';
 @Component({
     selector: 'my-app',
     template: `
-        <div class="container">
-         Welcome to angular
+        <div class= "container">
+         This is main Component !!
+         <dashboard-app></dashboard-app>
         </div>
     `
 })

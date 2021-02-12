@@ -1,6 +1,6 @@
 {
-  "name": "mat",
-  "version": "0.0.0",
+  "name": "webapp",
+  "version": "5.0.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -47,5 +47,19 @@
     "ts-node": "~3.2.0",
     "tslint": "~5.7.0",
     "typescript": "~2.4.2"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kachow0001/Angular5-Seed.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "kay",
+  "bugs": {
+    "url": "https://github.com/kachow0001/Angular5-Seed/issues"
+  },
+  "homepage": "https://github.com/kachow0001/Angular5-Seed#readme"
 }
